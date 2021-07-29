@@ -1,4 +1,4 @@
-framework module TTLock {
+framework module TTLockWatchOS {
   umbrella header "TTLock.h"
 
   export *

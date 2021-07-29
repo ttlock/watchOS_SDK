@@ -3,11 +3,11 @@
 //  version:1.0.0
 
 #import <Foundation/Foundation.h>
-#import <TTLock/TTBlocks.h>
-#import <TTLock/TTSystemInfoModel.h>
-#import <TTLock/TTMacros.h>
-#import <TTLock/TTScanModel.h>
-#import <TTLock/TTUtil.h>
+#import <TTLockWatchOS/TTBlocks.h>
+#import <TTLockWatchOS/TTSystemInfoModel.h>
+#import <TTLockWatchOS/TTMacros.h>
+#import <TTLockWatchOS/TTScanModel.h>
+#import <TTLockWatchOS/TTUtil.h>
 
 
 @interface TTLock : NSObject

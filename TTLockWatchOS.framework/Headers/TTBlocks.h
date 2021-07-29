@@ -12,7 +12,7 @@
 #ifndef TTBlocks_h
 #define TTBlocks_h
 
-#import <TTLock/TTMacros.h>
+#import <TTLockWatchOS/TTMacros.h>
 
 
 @class TTScanModel;

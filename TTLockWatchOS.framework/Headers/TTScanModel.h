@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <TTLock/TTMacros.h>
+#import <TTLockWatchOS/TTMacros.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
